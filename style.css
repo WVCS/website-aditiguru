@@ -1,17 +1,43 @@
-body {
-background-color: green;
+body{
+  background-color: #96E072;
 }
 
 h4{
- color: teal;
+ color: black;
   background: light green;
   text-align: center;
-  font-size: 50px;
+  font-size:70px;
+  border: double #CEEDDB 20px;
     
     text-decoration-color: red;
 }
 
 img {
-  width:30%
+  width:300px;
+ border: dotted #6E8894 10px;
+}
+nav{
+  list-style-type: none;
+  position: fixed;
+  background-color: #B8D5B8;
+  width: 100%;
+  top: 0;
+  right: 0;
+}
+li{
+  display: inline;
+  padding: 20px;
+  float: right;
+ 
   
 }
+li:hover {
+  background-color:#ECC8AE;
+  
+}
+a{
+ text-decoration: none;
+  color: salmon;
+  
+}
+
