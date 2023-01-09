@@ -8,8 +8,7 @@ h4{
   text-align: center;
   font-size:70px;
   border: double #CEEDDB 20px;
-    
-    text-decoration-color: red;
+  text-decoration-color: red;
 }
 
 img {
@@ -27,17 +26,14 @@ nav{
 li{
   display: inline;
   padding: 20px;
-  float: right;
- 
-  
+  float: right;  
 }
 li:hover {
-  background-color:#ECC8AE;
-  
+  background-color:#ECC8AE;  
 }
 a{
  text-decoration: none;
   color: salmon;
-  
+ 
 }
 
