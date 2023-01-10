@@ -1,10 +1,29 @@
- <head>
+<html>
+  <body>
+    <head>
       <link rel="stylesheet" href="style.css">
-        </head>
- <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/9hN5Yn7oh5tj_gylFcpjWyClAcWvAK3h5eCWIG_pSPx/embed?nosource"></iframe>
+      </head>
+      
+      
+      <nav>
+         <li><a href= "index.html"> HOME </a></li>
+      <li><a href= "Aditi's Website.html"> PROJECTS </a></li>
+      <li><a href= "Aditi's Website.html"> APPS </a></li>
+      </nav>
+       <br>
+       <br>
+       <center>
+       <h4> PROJECTS </h4>
+       <br>
+       <br>
+
+      <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/9hN5Yn7oh5tj_gylFcpjWyClAcWvAK3h5eCWIG_pSPx/embed?nosource"></iframe>
       <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/yDi6kgjD7gu9f3ecOuQ6pUOyj_mN362c5UtcA_O7GTx/embed?nosource"></iframe>
       <iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/ZWWWyoxi1yASdp-4GJgGpTB2SJw9HA0c2aTNEJRQa9r/embed?nosource"></iframe>
-
+     
+    </center>       
+  </body>
+ </html>
 
 
 
