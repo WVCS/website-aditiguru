@@ -1,9 +1,9 @@
-body{
+body {
   background-color: #96E072;
 }
 
-h4{
- color: black;
+h4 {
+  color: black;
   background: light green;
   text-align: center;
   font-size:70px;
@@ -15,7 +15,8 @@ img {
   width:300px;
  border: dotted #6E8894 10px;
 }
-nav{
+
+nav {
   list-style-type: none;
   position: fixed;
   background-color: #B8D5B8;
@@ -23,17 +24,19 @@ nav{
   top: 0;
   right: 0;
 }
-li{
+
+li {
   display: inline;
   padding: 20px;
-  float: right;  
+  float: right;
 }
+
 li:hover {
-  background-color:#ECC8AE;  
+  background-color:#ECC8AE; 
 }
-a{
+
+a {
  text-decoration: none;
   color: salmon;
- 
 }
 
